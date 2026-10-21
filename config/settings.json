@@ -1,0 +1,30 @@
+{
+  "base_url": "https://www.walmart.com",
+  "page_size": 40,
+  "max_pages_per_node": 60,
+  "request_timeout_sec": 45,
+  "max_retries": 4,
+  "backoff_base_sec": 3.0,
+  "min_delay_sec": 1.5,
+  "max_delay_sec": 3.5,
+  "impersonate": "chrome",
+  "max_categories_per_run": 0,
+  "max_subcategories_per_category": 0,
+  "max_pages_override": 0,
+  "private_label_brands": [
+    "Great Value", "Equate", "Marketside", "Freshness Guaranteed", "Parent's Choice",
+    "Mainstays", "Pen+Gear", "Ol' Roy", "Special Kitty", "Vibrant Life", "Spring Valley",
+    "Better Homes & Gardens", "Bettergoods", "Sam's Choice", "Wild Fork", "Time and Tru",
+    "Zoey Zen", "Hyper Tough", "Onn", "Athletic Works", "Way To Celebrate",
+    "Spark Create Imagine", "Clear Spring", "No Boundaries", "Gardenia", "Lil' Wonders"
+  ],
+  "validation": {
+    "min_yield_ratio_vs_last_good": 0.6,
+    "min_total_records": 500,
+    "max_category_failures": 0,
+    "canary_min_hits": 1
+  },
+  "output_dir": "data",
+  "state_dir": "state",
+  "log_dir": "logs"
+}

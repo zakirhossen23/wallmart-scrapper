@@ -1,0 +1,8 @@
+{
+  "total_records": 103,
+  "min_required": 500,
+  "passed": false,
+  "reasons": [
+    "Record count 103 below minimum required 500"
+  ]
+}

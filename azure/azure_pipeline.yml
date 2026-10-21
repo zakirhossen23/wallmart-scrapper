@@ -1,0 +1,42 @@
+name: Walmart Scraper Scheduled Run
+
+on:
+  schedule:
+    # Run twice per week: Tuesdays and Fridays at 02:00 UTC
+    - cron: '0 2 * * 2,5'
+  workflow_dispatch:
+    inputs:
+      store_job_id:
+        description: 'Target Store Job ID (or leave empty for all)'
+        required: false
+        default: ''
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Scraper
+        env:
+          AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        run: |
+          python -m walmart_scraper.main
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: walmart-scraped-data
+          path: data/
+          retention-days: 30

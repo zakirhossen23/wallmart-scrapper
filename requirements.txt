@@ -1,0 +1,4 @@
+curl_cffi>=0.7.0
+requests>=2.31.0
+pyyaml>=6.0.1
+azure-storage-blob>=12.19.0

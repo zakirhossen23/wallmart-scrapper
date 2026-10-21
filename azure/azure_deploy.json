@@ -1,0 +1,49 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "appName": {
+            "type": "string",
+            "defaultValue": "walmart-scraper-task",
+            "metadata": {
+                "description": "The name of the Azure Container App or Function App for the scraper."
+            }
+        },
+        "storageAccountName": {
+            "type": "string",
+            "defaultValue": "walmartscraperstore",
+            "metadata": {
+                "description": "The name of the Azure Storage Account for checkpoints and validated exports."
+            }
+        },
+        "location": {
+            "type": "string",
+            "defaultValue": "[resourceGroup().location]",
+            "metadata": {
+                "description": "Location for all resources."
+            }
+        }
+    },
+    "resources": [
+        {
+            "type": "Microsoft.Storage/storageAccounts",
+            "apiVersion": "2023-01-01",
+            "name": "[parameters('storageAccountName')]",
+            "location": "[parameters('location')]",
+            "sku": {
+                "name": "Standard_LRS"
+            },
+            "kind": "StorageV2",
+            "properties": {
+                "accessTier": "Hot",
+                "supportsHttpsTrafficOnly": true
+            }
+        }
+    ],
+    "outputs": {
+        "storageAccountId": {
+            "type": "string",
+            "value": "[resourceId('Microsoft.Storage/storageAccounts', parameters('storageAccountName'))]"
+        }
+    }
+}

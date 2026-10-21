@@ -1,0 +1,14 @@
+{
+  "_comment": "One entry per job. Add a location by adding an entry; no code changes needed. store_id is the Walmart store number used for the `stores` query parameter and the assortmentStoreId cookie.",
+  "locations": [
+    {
+      "job_id": "sacramento-3081",
+      "store_id": "3081",
+      "zipcode": "95829",
+      "store_name": "Walmart Supercenter",
+      "store_location": "Sacramento, CA",
+      "store_logo": "https://i5.walmartimages.com/dfw/63fd9f59-14e2/9d304ce6-96de-4331-b8ec-c5191236bf6a/v1/walmartLogo.svg",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,986 @@
+2026-10-21 11:51:43,452 [INFO] walmart_scraper.main: Initializing Walmart Production Scraper...
+2026-10-21 11:51:43,456 [INFO] walmart_scraper.main: Starting job sacramento-3081 for store 3081 (Sacramento, CA)
+2026-10-21 11:51:43,457 [INFO] walmart_scraper.main: Processing category: Food (https://www.walmart.com/cp/food/976759?povid=GlobalNav_rWeb_Grocery_GroceryShopAll)
+2026-10-21 11:51:44,327 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/food/976759?povid=GlobalNav_rWeb_Grocery_GroceryShopAll
+2026-10-21 11:51:44,329 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Food at https://www.walmart.com/cp/food/976759?povid=GlobalNav_rWeb_Grocery_GroceryShopAll
+2026-10-21 11:51:44,333 [INFO] walmart_scraper.main: Processing category: Household Essentials (https://www.walmart.com/cp/household-essentials/1115193?povid=GlobalNav_rWeb_HouseholdEssentials_AllPaperCleaning)
+2026-10-21 11:51:45,009 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/household-essentials/1115193?povid=GlobalNav_rWeb_HouseholdEssentials_AllPaperCleaning
+2026-10-21 11:51:45,009 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Household Essentials at https://www.walmart.com/cp/household-essentials/1115193?povid=GlobalNav_rWeb_HouseholdEssentials_AllPaperCleaning
+2026-10-21 11:51:45,010 [INFO] walmart_scraper.main: Processing category: Personal Care (https://www.walmart.com/cp/personal-care/1005862?povid=GlobalNav_rWeb_PersonalCare_3.19)
+2026-10-21 11:51:45,807 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/personal-care/1005862?povid=GlobalNav_rWeb_PersonalCare_3.19
+2026-10-21 11:51:45,808 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Personal Care at https://www.walmart.com/cp/personal-care/1005862?povid=GlobalNav_rWeb_PersonalCare_3.19
+2026-10-21 11:51:45,809 [INFO] walmart_scraper.main: Processing category: Beauty (https://www.walmart.com/cp/beauty/1085666?povid=GlobalNav_rWeb_Beauty_Beauty_ShopAll_051123)
+2026-10-21 11:51:46,492 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/beauty/1085666?povid=GlobalNav_rWeb_Beauty_Beauty_ShopAll_051123
+2026-10-21 11:51:46,492 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Beauty at https://www.walmart.com/cp/beauty/1085666?povid=GlobalNav_rWeb_Beauty_Beauty_ShopAll_051123
+2026-10-21 11:51:46,493 [INFO] walmart_scraper.main: Processing category: Diapering (https://www.walmart.com/browse/diapering/5427_486190?povid=GlobalNav_mWeb_BabyKids_diaperswipes)
+2026-10-21 11:51:47,150 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/browse/diapering/5427_486190?povid=GlobalNav_mWeb_BabyKids_diaperswipes
+2026-10-21 11:51:47,151 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Diapering at https://www.walmart.com/browse/diapering/5427_486190?povid=GlobalNav_mWeb_BabyKids_diaperswipes
+2026-10-21 11:51:47,153 [INFO] walmart_scraper.main: Processing category: Feeding (https://www.walmart.com/cp/feeding/133283?povid=GlobalNav_mWeb_BabyKids_babyformula_babyfood)
+2026-10-21 11:51:47,838 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/feeding/133283?povid=GlobalNav_mWeb_BabyKids_babyformula_babyfood
+2026-10-21 11:51:47,839 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Feeding at https://www.walmart.com/cp/feeding/133283?povid=GlobalNav_mWeb_BabyKids_babyformula_babyfood
+2026-10-21 11:51:47,842 [INFO] walmart_scraper.main: Processing category: Health & Wellness (https://www.walmart.com/cp/health/976760)
+2026-10-21 11:51:48,633 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/health/976760
+2026-10-21 11:51:48,633 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Health & Wellness at https://www.walmart.com/cp/health/976760
+2026-10-21 11:51:48,639 [INFO] walmart_scraper.main: Processing category: Pets (https://www.walmart.com/cp/pets/5440?povid=GlobalNav_rWeb_Pets_PetSupplies_AllPetSupplies)
+2026-10-21 11:51:49,396 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/pets/5440?povid=GlobalNav_rWeb_Pets_PetSupplies_AllPetSupplies
+2026-10-21 11:51:49,396 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Pets at https://www.walmart.com/cp/pets/5440?povid=GlobalNav_rWeb_Pets_PetSupplies_AllPetSupplies
+2026-10-21 11:51:49,402 [INFO] walmart_scraper.main: Processing category: Balloons (https://www.walmart.com/browse/party-occasions/balloons/2637_1042319_1212898_3956207?povid=GlobalNav_rWeb_ETS_partysupplies_balloons)
+2026-10-21 11:51:50,126 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/browse/party-occasions/balloons/2637_1042319_1212898_3956207?povid=GlobalNav_rWeb_ETS_partysupplies_balloons
+2026-10-21 11:51:50,128 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Balloons at https://www.walmart.com/browse/party-occasions/balloons/2637_1042319_1212898_3956207?povid=GlobalNav_rWeb_ETS_partysupplies_balloons
+2026-10-21 11:51:50,132 [INFO] walmart_scraper.main: Processing category: Art Supplies (https://www.walmart.com/cp/art-supplies/5899871?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_ArtSupplies)
+2026-10-21 11:51:50,852 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/art-supplies/5899871?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_ArtSupplies
+2026-10-21 11:51:50,852 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Art Supplies at https://www.walmart.com/cp/art-supplies/5899871?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_ArtSupplies
+2026-10-21 11:51:50,853 [INFO] walmart_scraper.main: Processing category: Office Supplies (https://www.walmart.com/cp/office-supplies/1229749?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllOfficeSupplies)
+2026-10-21 11:51:51,647 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/office-supplies/1229749?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllOfficeSupplies
+2026-10-21 11:51:51,648 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Office Supplies at https://www.walmart.com/cp/office-supplies/1229749?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllOfficeSupplies
+2026-10-21 11:51:51,659 [WARNING] walmart_scraper.pipeline: Run validation FAILED. Preserving existing latest_good output. Run archived at data\sacramento-3081_20261021_055151.json
+2026-10-21 11:51:51,661 [INFO] walmart_scraper.main: Completed run for sacramento-3081. Total records: 0. Valid: False
+2026-10-21 11:54:28,873 [INFO] walmart_scraper.main: Initializing Walmart Production Scraper...
+2026-10-21 11:54:28,873 [INFO] walmart_scraper.main: Starting job sacramento-3081 for store 3081 (Sacramento, CA)
+2026-10-21 11:54:28,874 [INFO] walmart_scraper.main: Processing category: Food (https://www.walmart.com/cp/food/976759?povid=GlobalNav_rWeb_Grocery_GroceryShopAll)
+2026-10-21 11:54:29,499 [INFO] walmart_scraper.navigator: Discovered 206 subcategories for Food
+2026-10-21 11:54:29,502 [INFO] walmart_scraper.main: Scraping subcategory: Only at Walmart - Fresh  (cat_id=976759_7128585_2981759)
+2026-10-21 11:54:29,502 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Only at Walmart - Fresh 
+2026-10-21 11:54:32,626 [INFO] walmart_scraper.main: Fetching page 2 for subcategory Only at Walmart - Fresh 
+2026-10-21 11:54:35,873 [INFO] walmart_scraper.main: Fetching page 3 for subcategory Only at Walmart - Fresh 
+2026-10-21 11:54:39,075 [INFO] walmart_scraper.main: Fetching page 4 for subcategory Only at Walmart - Fresh 
+2026-10-21 11:54:42,512 [INFO] walmart_scraper.main: Fetching page 5 for subcategory Only at Walmart - Fresh 
+2026-10-21 11:54:43,292 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=e86a6b61-cd13-11f1-be35-701859223808\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:43,296 [INFO] walmart_scraper.main: Scraping subcategory: Only at Walmart - Frozen  (cat_id=976759_7128585_8934463)
+2026-10-21 11:54:43,296 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Only at Walmart - Frozen 
+2026-10-21 11:54:43,937 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=e8d2a994-cd13-11f1-bc70-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:43,937 [INFO] walmart_scraper.main: Scraping subcategory: Only at Walmart - Beverages (cat_id=976759_7128585_1478350)
+2026-10-21 11:54:43,937 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Only at Walmart - Beverages
+2026-10-21 11:54:44,572 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=e93291fb-cd13-11f1-8ebd-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:44,573 [INFO] walmart_scraper.main: Scraping subcategory: Only at Walmart - Snacks   (cat_id=976759_7128585_3996130)
+2026-10-21 11:54:44,573 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Only at Walmart - Snacks  
+2026-10-21 11:54:45,199 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=e98f8a8d-cd13-11f1-8299-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:45,199 [INFO] walmart_scraper.main: Scraping subcategory: Only at Walmart - Pantry  (cat_id=976759_976794_2002490)
+2026-10-21 11:54:45,200 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Only at Walmart - Pantry 
+2026-10-21 11:54:45,814 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=e9eebd18-cd13-11f1-a462-a6b7bd712c18\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:45,815 [INFO] walmart_scraper.main: Scraping subcategory: Only at Walmart - Bread & Bakery  (cat_id=976759_976779_8001722)
+2026-10-21 11:54:45,815 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Only at Walmart - Bread & Bakery 
+2026-10-21 11:54:46,425 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ea51e252-cd13-11f1-8a72-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:46,426 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Organic Produce  (cat_id=976759_976793_1913529)
+2026-10-21 11:54:46,426 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Organic Produce 
+2026-10-21 11:54:47,038 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=eaa9a9e0-cd13-11f1-8c34-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:47,038 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Fresh Fruits  (cat_id=976759_976793_9756351)
+2026-10-21 11:54:47,038 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Fresh Fruits 
+2026-10-21 11:54:47,659 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=eb0a7e8e-cd13-11f1-ab26-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:47,660 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Fresh Vegetables  (cat_id=976759_976793_8910423)
+2026-10-21 11:54:47,660 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Fresh Vegetables 
+2026-10-21 11:54:48,269 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=eb6b4598-cd13-11f1-96c0-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:48,269 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Salad Kits & Bowls  (cat_id=9538337)
+2026-10-21 11:54:48,269 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Salad Kits & Bowls 
+2026-10-21 11:54:48,814 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ebbce938-cd13-11f1-9214-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:48,814 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Cut Fruits & Vegetables  (cat_id=976759_976793_8402496)
+2026-10-21 11:54:48,814 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Cut Fruits & Vegetables 
+2026-10-21 11:54:49,435 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ec181197-cd13-11f1-9ab6-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:49,436 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Fresh Dressings (cat_id=976759_976793_9538337_5920602)
+2026-10-21 11:54:49,436 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Fresh Dressings
+2026-10-21 11:54:50,069 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ec7acfdd-cd13-11f1-8137-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:50,069 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Fresh Herbs (cat_id=976759_976793_3513831)
+2026-10-21 11:54:50,070 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Fresh Herbs
+2026-10-21 11:54:50,773 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ece4e5f4-cd13-11f1-baac-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:50,773 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Salsa & Dips (cat_id=976759_976793_9538337_9157112)
+2026-10-21 11:54:50,773 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Salsa & Dips
+2026-10-21 11:54:51,348 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ed411abf-cd13-11f1-ab96-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:51,348 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Plant-based Protein & Tofu (cat_id=976759_976793_6919650)
+2026-10-21 11:54:51,348 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Plant-based Protein & Tofu
+2026-10-21 11:54:51,969 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ed9b5a97-cd13-11f1-8f21-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:51,970 [INFO] walmart_scraper.main: Scraping subcategory: Fresh Produce - Fresh Flowers (cat_id=976759_1089004_2424807)
+2026-10-21 11:54:51,970 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fresh Produce - Fresh Flowers
+2026-10-21 11:54:52,620 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=edfa8765-cd13-11f1-907f-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:52,620 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - The Holiday Mains (cat_id=9448605)
+2026-10-21 11:54:52,620 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - The Holiday Mains
+2026-10-21 11:54:53,244 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ee5e97ee-cd13-11f1-b263-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:53,244 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - The Seafood Shop (cat_id=3410728)
+2026-10-21 11:54:53,244 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - The Seafood Shop
+2026-10-21 11:54:53,790 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=eeb34fd7-cd13-11f1-9c7c-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:53,790 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - The Beef Shop   (cat_id=6677247)
+2026-10-21 11:54:53,790 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - The Beef Shop  
+2026-10-21 11:54:54,358 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ef0a9320-cd13-11f1-b4fc-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:54,358 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - The Pork Shop (cat_id=2543738)
+2026-10-21 11:54:54,359 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - The Pork Shop
+2026-10-21 11:54:54,990 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ef5e5915-cd13-11f1-b6a6-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:54,990 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - Beef & Lamb  (cat_id=976759_9569500_1730435)
+2026-10-21 11:54:54,990 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - Beef & Lamb 
+2026-10-21 11:54:55,601 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=efc4350d-cd13-11f1-b1a8-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:55,601 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - Bacon, Hot Dogs, & Sausage  (cat_id=976759_9569500_2941132)
+2026-10-21 11:54:55,601 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - Bacon, Hot Dogs, & Sausage 
+2026-10-21 11:54:56,272 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f028b598-cd13-11f1-aa92-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:56,272 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - Chicken  (cat_id=976759_9569500_1001443)
+2026-10-21 11:54:56,272 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - Chicken 
+2026-10-21 11:54:57,038 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f0a0c78d-cd13-11f1-b75b-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:57,038 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - Pork  (cat_id=976759_9569500_1044143)
+2026-10-21 11:54:57,038 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - Pork 
+2026-10-21 11:54:57,687 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f0fb02e3-cd13-11f1-b4a8-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:57,688 [INFO] walmart_scraper.main: Scraping subcategory: Meat & Seafood - Organic and Plant-Based  (cat_id=976759_9569500_5574987)
+2026-10-21 11:54:57,688 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & Seafood - Organic and Plant-Based 
+2026-10-21 11:54:58,319 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f167296f-cd13-11f1-838c-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:58,320 [INFO] walmart_scraper.main: Scraping subcategory: Deli - Specialty cheese and Charcuterie   (cat_id=4740967)
+2026-10-21 11:54:58,320 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deli - Specialty cheese and Charcuterie  
+2026-10-21 11:54:58,857 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f1b5f8e9-cd13-11f1-94fd-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:58,857 [INFO] walmart_scraper.main: Scraping subcategory: Deli - Deli meat & Cheese   (cat_id=976759_976789_5428795)
+2026-10-21 11:54:58,857 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deli - Deli meat & Cheese  
+2026-10-21 11:54:59,513 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f2198da7-cd13-11f1-8307-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:54:59,513 [INFO] walmart_scraper.main: Scraping subcategory: Deli - Prepared meals & sides  (cat_id=976759_976789_8979491)
+2026-10-21 11:54:59,513 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deli - Prepared meals & sides 
+2026-10-21 11:55:00,157 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f278bbe6-cd13-11f1-9d74-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:00,158 [INFO] walmart_scraper.main: Scraping subcategory: Deli - Rotisserie Chicken   (cat_id=976759_9569500_1001443_9284629_8331739)
+2026-10-21 11:55:00,158 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deli - Rotisserie Chicken  
+2026-10-21 11:55:00,725 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f2d765b5-cd13-11f1-9c22-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:00,725 [INFO] walmart_scraper.main: Scraping subcategory: Deli - Fresh Sandwiches (cat_id=976759_976789_2985474)
+2026-10-21 11:55:00,726 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deli - Fresh Sandwiches
+2026-10-21 11:55:01,258 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f32831b4-cd13-11f1-886f-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:01,258 [INFO] walmart_scraper.main: Scraping subcategory: Deli - Fresh Prepared Soups & Salads  (cat_id=7419699)
+2026-10-21 11:55:01,259 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deli - Fresh Prepared Soups & Salads 
+2026-10-21 11:55:01,745 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f37470e6-cd13-11f1-8919-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:01,745 [INFO] walmart_scraper.main: Scraping subcategory: Deli - Hummus, Dips & Salsa (cat_id=976759_976789_7056897)
+2026-10-21 11:55:01,745 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deli - Hummus, Dips & Salsa
+2026-10-21 11:55:02,232 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f3bec35d-cd13-11f1-b419-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:02,232 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Chips  (cat_id=1001390)
+2026-10-21 11:55:02,232 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Chips 
+2026-10-21 11:55:02,803 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f410c3cb-cd13-11f1-a8e4-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:02,803 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Crackers  (cat_id=976759_976787_1001392)
+2026-10-21 11:55:02,803 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Crackers 
+2026-10-21 11:55:03,402 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f46b553a-cd13-11f1-9e96-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:03,402 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Fruit Snacks  (cat_id=976759_976787_1001395)
+2026-10-21 11:55:03,402 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Fruit Snacks 
+2026-10-21 11:55:03,997 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f4c744ca-cd13-11f1-90b0-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:03,998 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Cookies  (cat_id=1001391)
+2026-10-21 11:55:03,998 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Cookies 
+2026-10-21 11:55:04,604 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f52347f3-cd13-11f1-9eb3-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:04,604 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Beef Jerky & Dried Meats (cat_id=976759_976787_1001405)
+2026-10-21 11:55:04,604 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Beef Jerky & Dried Meats
+2026-10-21 11:55:05,221 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f581e0b1-cd13-11f1-b785-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:05,224 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Popcorn  (cat_id=976759_976787_1001407)
+2026-10-21 11:55:05,225 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Popcorn 
+2026-10-21 11:55:05,964 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f5ef9b62-cd13-11f1-abda-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:05,964 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Nuts, Trail Mix & Seeds (cat_id=976759_976787_1001406)
+2026-10-21 11:55:05,964 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Nuts, Trail Mix & Seeds
+2026-10-21 11:55:06,542 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f64d22da-cd13-11f1-b9ea-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:06,542 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Pretzels  (cat_id=976759_976787_1044156)
+2026-10-21 11:55:06,542 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Pretzels 
+2026-10-21 11:55:07,176 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f6a568c9-cd13-11f1-bdcb-8d15fd5c41fa\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:07,176 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Granola Bars  (cat_id=976759_976787_1044154_5006109)
+2026-10-21 11:55:07,176 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Granola Bars 
+2026-10-21 11:55:07,764 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f706e221-cd13-11f1-b238-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:07,764 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Healthy Snacks  (cat_id=976759_976787_9830353)
+2026-10-21 11:55:07,764 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Healthy Snacks 
+2026-10-21 11:55:08,370 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f761c0d6-cd13-11f1-a98a-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:08,370 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Meat Sticks  (cat_id=976759_976787_1001405_2758322)
+2026-10-21 11:55:08,370 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Meat Sticks 
+2026-10-21 11:55:08,931 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f7bd5a20-cd13-11f1-a057-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:08,931 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Dried Fruits (cat_id=976759_976787_4962467)
+2026-10-21 11:55:08,932 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Dried Fruits
+2026-10-21 11:55:09,596 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f81b056d-cd13-11f1-91b3-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:09,597 [INFO] walmart_scraper.main: Scraping subcategory: Snacks - Salsas & Dips  (cat_id=976759_976787_1001393)
+2026-10-21 11:55:09,597 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks - Salsas & Dips 
+2026-10-21 11:55:10,112 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f871d00e-cd13-11f1-a87c-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:10,112 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Canned Goods  (cat_id=976759_976794_7433209)
+2026-10-21 11:55:10,112 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Canned Goods 
+2026-10-21 11:55:10,884 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f8dec326-cd13-11f1-9833-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:10,884 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Condiments (cat_id=976759_976794_7981173)
+2026-10-21 11:55:10,884 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Condiments
+2026-10-21 11:55:11,488 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f941f9e4-cd13-11f1-bd67-701859223808\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:11,489 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Pasta & Pizza (cat_id=976759_976794_5403011)
+2026-10-21 11:55:11,489 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Pasta & Pizza
+2026-10-21 11:55:12,029 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f99668e7-cd13-11f1-8668-fe8c96513182\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:12,029 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Herbs, spices, seasonings (cat_id=976759_976794_3029941)
+2026-10-21 11:55:12,030 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Herbs, spices, seasonings
+2026-10-21 11:55:12,711 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=f9edeb22-cd13-11f1-825f-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:12,712 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Packaged meals & sides  (cat_id=976759_976794_5614446)
+2026-10-21 11:55:12,712 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Packaged meals & sides 
+2026-10-21 11:55:14,142 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fad11ff2-cd13-11f1-8071-1e1d1084aefa\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:14,143 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Soup  (cat_id=976759_976794_8248961)
+2026-10-21 11:55:14,143 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Soup 
+2026-10-21 11:55:14,766 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fb30a22d-cd13-11f1-a4fe-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:14,766 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Rice, grains, dried beans  (cat_id=976759_976794_4879140)
+2026-10-21 11:55:14,766 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Rice, grains, dried beans 
+2026-10-21 11:55:15,433 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fb942e17-cd13-11f1-b95a-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:15,434 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Global flavors (cat_id=976759_976794_3854465)
+2026-10-21 11:55:15,434 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Global flavors
+2026-10-21 11:55:16,075 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fbfa7ff8-cd13-11f1-ab5a-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:16,075 [INFO] walmart_scraper.main: Scraping subcategory: Pantry - Bulk food (cat_id=976759_976794_7062283)
+2026-10-21 11:55:16,076 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry - Bulk food
+2026-10-21 11:55:16,677 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fc55550c-cd13-11f1-8156-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:16,678 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Soda (cat_id=1001680)
+2026-10-21 11:55:16,678 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Soda
+2026-10-21 11:55:17,832 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fcfb948c-cd13-11f1-bb6e-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:17,832 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Water (cat_id=1001659)
+2026-10-21 11:55:17,833 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Water
+2026-10-21 11:55:18,505 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fd6f34d6-cd13-11f1-9dd9-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:18,506 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Juices (cat_id=1001321)
+2026-10-21 11:55:18,506 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Juices
+2026-10-21 11:55:19,235 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fdda375e-cd13-11f1-9b56-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:19,235 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Sports Drinks (cat_id=976759_976782_1001682)
+2026-10-21 11:55:19,235 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Sports Drinks
+2026-10-21 11:55:19,855 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fe3ae086-cd13-11f1-a023-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:19,856 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Kids Drinks & Juice Boxes (cat_id=976759_976782_1001321_1973403)
+2026-10-21 11:55:19,856 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Kids Drinks & Juice Boxes
+2026-10-21 11:55:20,614 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=fead2a17-cd13-11f1-bddb-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:20,615 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Coffee (cat_id=1086446)
+2026-10-21 11:55:20,615 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Coffee
+2026-10-21 11:55:21,398 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ff2590e6-cd13-11f1-a12b-2a3211a229de\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:21,398 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Tea (cat_id=1001320)
+2026-10-21 11:55:21,398 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Tea
+2026-10-21 11:55:22,092 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=ff910067-cd13-11f1-88d7-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:22,092 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Energy Drinks (cat_id=976759_976782_9357528)
+2026-10-21 11:55:22,092 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Energy Drinks
+2026-10-21 11:55:22,809 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=00007bf9-cd14-11f1-8a48-fe8c96513182\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:22,809 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Drink Mixes (cat_id=976759_976782_1001683)
+2026-10-21 11:55:22,809 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Drink Mixes
+2026-10-21 11:55:23,542 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=006ce510-cd14-11f1-9135-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:23,543 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Protein Shakes  (cat_id=976760_1166769_1282185)
+2026-10-21 11:55:23,543 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Protein Shakes 
+2026-10-21 11:55:24,138 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=00c86c00-cd14-11f1-93cc-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:24,138 [INFO] walmart_scraper.main: Scraping subcategory: Beverages - Health-inspired Beverages (cat_id=5730567)
+2026-10-21 11:55:24,139 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages - Health-inspired Beverages
+2026-10-21 11:55:24,778 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=01281c48-cd14-11f1-96d4-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:24,779 [INFO] walmart_scraper.main: Scraping subcategory: Breakfast & Cereal - Cereal & Granola  (cat_id=976759_976783_8102529)
+2026-10-21 11:55:24,779 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Breakfast & Cereal - Cereal & Granola 
+2026-10-21 11:55:25,720 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=01b70f56-cd14-11f1-a1a9-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:25,720 [INFO] walmart_scraper.main: Scraping subcategory: Breakfast & Cereal - Oatmeal & Grits  (cat_id=976759_976783_7830606)
+2026-10-21 11:55:25,720 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Breakfast & Cereal - Oatmeal & Grits 
+2026-10-21 11:55:26,375 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0219e32b-cd14-11f1-b109-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:26,375 [INFO] walmart_scraper.main: Scraping subcategory: Breakfast & Cereal - Breakfast Breads (cat_id=976759_976779_1044115)
+2026-10-21 11:55:26,375 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Breakfast & Cereal - Breakfast Breads
+2026-10-21 11:55:27,055 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=02847c24-cd14-11f1-986d-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:27,055 [INFO] walmart_scraper.main: Scraping subcategory: Breakfast & Cereal - Toaster Pastries & Bars  (cat_id=976759_976783_8438428)
+2026-10-21 11:55:27,055 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Breakfast & Cereal - Toaster Pastries & Bars 
+2026-10-21 11:55:28,095 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=031aaa55-cd14-11f1-b20d-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:28,096 [INFO] walmart_scraper.main: Scraping subcategory: Breakfast & Cereal - Pancakes & Waffles & Syrup  (cat_id=976759_976783_2228922)
+2026-10-21 11:55:28,096 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Breakfast & Cereal - Pancakes & Waffles & Syrup 
+2026-10-21 11:55:28,872 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0396f2c7-cd14-11f1-8fcb-8d15fd5c41fa\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:28,872 [INFO] walmart_scraper.main: Scraping subcategory: Breakfast & Cereal - Muffins & Pastries (cat_id=976759_9392773_8196081)
+2026-10-21 11:55:28,872 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Breakfast & Cereal - Muffins & Pastries
+2026-10-21 11:55:29,403 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=03f0ffd0-cd14-11f1-8d6f-fe8c96513182\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:29,403 [INFO] walmart_scraper.main: Scraping subcategory: Breakfast & Cereal - Great Value Breakfast (cat_id=976759_976783_2919949)
+2026-10-21 11:55:29,403 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Breakfast & Cereal - Great Value Breakfast
+2026-10-21 11:55:30,013 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=04475cbc-cd14-11f1-b06d-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:30,013 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Artisan Bread (cat_id=976759_976779_3396508)
+2026-10-21 11:55:30,013 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Artisan Bread
+2026-10-21 11:55:30,565 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=049b12e3-cd14-11f1-b3cb-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:30,565 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Bread (cat_id=976759_976779_8399244)
+2026-10-21 11:55:30,565 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Bread
+2026-10-21 11:55:31,171 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=04f708c5-cd14-11f1-b97f-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:31,172 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Pastries (cat_id=976759_976779_1001456)
+2026-10-21 11:55:31,172 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Pastries
+2026-10-21 11:55:31,703 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=054a8e56-cd14-11f1-ace2-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:31,703 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Rolls (cat_id=976759_976779_1037480)
+2026-10-21 11:55:31,703 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Rolls
+2026-10-21 11:55:32,258 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=05a4745a-cd14-11f1-adf8-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:32,258 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Buns (cat_id=976759_976779_5829009)
+2026-10-21 11:55:32,258 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Buns
+2026-10-21 11:55:32,870 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=05fae888-cd14-11f1-92d6-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:32,871 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Bakery Cookies (cat_id=976759_976779_1951361)
+2026-10-21 11:55:32,871 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Bakery Cookies
+2026-10-21 11:55:33,457 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0652ed85-cd14-11f1-8267-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:33,458 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Brownies (cat_id=976759_976779_3465538)
+2026-10-21 11:55:33,458 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Brownies
+2026-10-21 11:55:34,163 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=06c1947b-cd14-11f1-a0f1-9295020f6a35\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:34,163 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Bakery Sweets (cat_id=976759_976779_4525853)
+2026-10-21 11:55:34,163 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Bakery Sweets
+2026-10-21 11:55:34,789 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0721ec29-cd14-11f1-9fd5-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:34,789 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Pies (cat_id=976759_976779_2464018)
+2026-10-21 11:55:34,789 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Pies
+2026-10-21 11:55:35,417 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=077ca0e0-cd14-11f1-8c86-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:35,417 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Cakes (cat_id=976759_976779_9997386)
+2026-10-21 11:55:35,417 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Cakes
+2026-10-21 11:55:36,023 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=07def9f7-cd14-11f1-a50a-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:36,023 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Cupcakes (cat_id=976759_976779_2408821)
+2026-10-21 11:55:36,023 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Cupcakes
+2026-10-21 11:55:36,561 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0833fae0-cd14-11f1-b5f7-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:36,561 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Tortillas (cat_id=976759_976779_2993335)
+2026-10-21 11:55:36,561 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Tortillas
+2026-10-21 11:55:37,801 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=08ebe801-cd14-11f1-b337-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:37,801 [INFO] walmart_scraper.main: Scraping subcategory: Bread & Bakery - Snack Cakes (cat_id=976759_976779_9318357)
+2026-10-21 11:55:37,802 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & Bakery - Snack Cakes
+2026-10-21 11:55:38,409 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=09484afb-cd14-11f1-8bdc-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:38,409 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Cheese (cat_id=976759_9176907_1001468)
+2026-10-21 11:55:38,409 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Cheese
+2026-10-21 11:55:39,019 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=09a4f8e6-cd14-11f1-ab1b-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:39,020 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Milk (cat_id=976759_9176907_4405816)
+2026-10-21 11:55:39,020 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Milk
+2026-10-21 11:55:39,571 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=09fbe9b1-cd14-11f1-aa24-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:39,572 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Cream & Creamers (cat_id=976759_9176907_9550303)
+2026-10-21 11:55:39,572 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Cream & Creamers
+2026-10-21 11:55:40,225 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0a5932e5-cd14-11f1-8418-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:40,226 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Yogurt (cat_id=976759_9176907_1001470)
+2026-10-21 11:55:40,226 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Yogurt
+2026-10-21 11:55:40,760 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0ab57f60-cd14-11f1-8905-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:40,760 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Eggs (cat_id=976759_9176907_1001469)
+2026-10-21 11:55:40,760 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Eggs
+2026-10-21 11:55:41,374 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0b0e2ffd-cd14-11f1-8cc7-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:41,374 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Butter & Margarine (cat_id=976759_9176907_1001467)
+2026-10-21 11:55:41,375 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Butter & Margarine
+2026-10-21 11:55:42,017 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0b6a62a2-cd14-11f1-a33d-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:42,017 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Sour Cream & Chilled Dips (cat_id=976759_9176907_7287191)
+2026-10-21 11:55:42,017 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Sour Cream & Chilled Dips
+2026-10-21 11:55:42,592 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0bc8a25e-cd14-11f1-9118-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:42,593 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Biscuits, Cookies, Doughs & Crusts (cat_id=976759_9176907_7545972)
+2026-10-21 11:55:42,593 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Biscuits, Cookies, Doughs & Crusts
+2026-10-21 11:55:43,198 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0c235a2d-cd14-11f1-b514-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:43,199 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & Eggs - Pudding & Gelatin (cat_id=976759_9176907_3733198)
+2026-10-21 11:55:43,199 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & Eggs - Pudding & Gelatin
+2026-10-21 11:55:43,850 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0c7ae98c-cd14-11f1-875a-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:43,851 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Ice Cream & Novelties (cat_id=976759_976791_1518625)
+2026-10-21 11:55:43,852 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Ice Cream & Novelties
+2026-10-21 11:55:44,370 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0cdc4d1c-cd14-11f1-8bb7-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:44,371 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - The Ice Cream Shop (cat_id=1439236)
+2026-10-21 11:55:44,371 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - The Ice Cream Shop
+2026-10-21 11:55:44,893 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0d2d0c67-cd14-11f1-afd6-dec10eff15b3\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:44,893 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Frozen Meals (cat_id=976759_976791_6259087)
+2026-10-21 11:55:44,893 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Frozen Meals
+2026-10-21 11:55:45,520 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0d7a5507-cd14-11f1-baf6-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:45,520 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Frozen Appetizers & Snacks (cat_id=976759_976791_1272219)
+2026-10-21 11:55:45,521 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Frozen Appetizers & Snacks
+2026-10-21 11:55:46,064 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0ddf94c4-cd14-11f1-99a4-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:46,065 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Frozen Produce (cat_id=976759_976791_5624760)
+2026-10-21 11:55:46,065 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Frozen Produce
+2026-10-21 11:55:46,559 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0e2917a9-cd14-11f1-9b56-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:46,560 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Frozen Breakfast (cat_id=976759_976791_1001417)
+2026-10-21 11:55:46,560 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Frozen Breakfast
+2026-10-21 11:55:47,173 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0e7e46ce-cd14-11f1-994f-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:47,174 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Frozen Pizza (cat_id=976759_976791_2072073)
+2026-10-21 11:55:47,174 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Frozen Pizza
+2026-10-21 11:55:47,850 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0eeda435-cd14-11f1-9bf8-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:47,850 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Frozen Desserts (cat_id=976759_976791_9551235)
+2026-10-21 11:55:47,850 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Frozen Desserts
+2026-10-21 11:55:48,379 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0f40196b-cd14-11f1-affc-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:48,380 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Frozen Meat, Seafood, & Vegetarian (cat_id=976759_976791_5295075)
+2026-10-21 11:55:48,380 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Frozen Meat, Seafood, & Vegetarian
+2026-10-21 11:55:49,166 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=0fae09bf-cd14-11f1-9150-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:49,166 [INFO] walmart_scraper.main: Scraping subcategory: Frozen - Frozen Potatoes (cat_id=976759_976791_6170090)
+2026-10-21 11:55:49,166 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen - Frozen Potatoes
+2026-10-21 11:55:49,753 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=100c9dea-cd14-11f1-9329-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:49,754 [INFO] walmart_scraper.main: Scraping subcategory: Candy - Chocolate (cat_id=976759_1096070_1224976)
+2026-10-21 11:55:49,754 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Candy - Chocolate
+2026-10-21 11:55:50,297 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=106420ac-cd14-11f1-b1eb-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:50,298 [INFO] walmart_scraper.main: Scraping subcategory: Candy - Gummy & chewy candy (cat_id=976759_1096070_1224975)
+2026-10-21 11:55:50,298 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Candy - Gummy & chewy candy
+2026-10-21 11:55:50,778 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=10ad7375-cd14-11f1-a8ff-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:50,778 [INFO] walmart_scraper.main: Scraping subcategory: Candy - Hard candy & lollipops (cat_id=976759_1096070_1224979)
+2026-10-21 11:55:50,778 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Candy - Hard candy & lollipops
+2026-10-21 11:55:51,781 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1142de03-cd14-11f1-9df6-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:51,781 [INFO] walmart_scraper.main: Scraping subcategory: Candy - Multipacks & bags (cat_id=976759_1096070_1224980)
+2026-10-21 11:55:51,781 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Candy - Multipacks & bags
+2026-10-21 11:55:52,373 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=119af25c-cd14-11f1-a44f-1e1d1084aefa\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:52,373 [INFO] walmart_scraper.main: Scraping subcategory: Candy - Gum  (cat_id=976759_1096070_1224977)
+2026-10-21 11:55:52,373 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Candy - Gum 
+2026-10-21 11:55:53,001 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=11f89672-cd14-11f1-ad54-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:53,001 [INFO] walmart_scraper.main: Scraping subcategory: Candy - Mints (cat_id=976759_1096070_1224978)
+2026-10-21 11:55:53,001 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Candy - Mints
+2026-10-21 11:55:53,608 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1258f3c0-cd14-11f1-a4e3-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:53,609 [INFO] walmart_scraper.main: Scraping subcategory: Candy - Better for you (cat_id=976759_1096070_2851671)
+2026-10-21 11:55:53,609 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Candy - Better for you
+2026-10-21 11:55:54,190 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=12b63560-cd14-11f1-b47f-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:54,191 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Baking Mixes  (cat_id=976759_976780_6314071_7859593)
+2026-10-21 11:55:54,191 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Baking Mixes 
+2026-10-21 11:55:54,873 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=13136f05-cd14-11f1-b014-2a3211a229de\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:54,873 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Sugars & Sweeteners  (cat_id=976759_976780_9959366_3087979)
+2026-10-21 11:55:54,873 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Sugars & Sweeteners 
+2026-10-21 11:55:55,429 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=13749726-cd14-11f1-bd55-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:55,429 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Flours & Meals (cat_id=976759_976780_9959366_9084673)
+2026-10-21 11:55:55,430 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Flours & Meals
+2026-10-21 11:55:55,977 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=13c3b758-cd14-11f1-bf95-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:55,978 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Baking Soda & Starch  (cat_id=976759_976780_9959366_5053287)
+2026-10-21 11:55:55,978 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Baking Soda & Starch 
+2026-10-21 11:55:56,580 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=141aed1c-cd14-11f1-89bb-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:56,580 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Oil & Shortening (cat_id=976759_976780_4930324)
+2026-10-21 11:55:56,580 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Oil & Shortening
+2026-10-21 11:55:57,171 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1474c62d-cd14-11f1-8e5f-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:57,171 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Yeasts (cat_id=976759_976780_9959366_1044105)
+2026-10-21 11:55:57,171 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Yeasts
+2026-10-21 11:55:57,712 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=14c9959b-cd14-11f1-8bc4-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:57,713 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Baking Nuts (cat_id=976759_976780_9959366_3127390)
+2026-10-21 11:55:57,713 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Baking Nuts
+2026-10-21 11:55:58,274 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=152110da-cd14-11f1-abd2-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:58,274 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Canned & Powdered Milks (cat_id=976759_976780_9959366_5832492)
+2026-10-21 11:55:58,274 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Canned & Powdered Milks
+2026-10-21 11:55:59,249 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=15b5a49c-cd14-11f1-821e-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:55:59,249 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Baking Chocolate Chips & Cocoa (cat_id=2710937)
+2026-10-21 11:55:59,250 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Baking Chocolate Chips & Cocoa
+2026-10-21 11:56:00,389 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1668617f-cd14-11f1-9a68-fe8c96513182\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:00,390 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Frosting & Decor (cat_id=976759_976780_9959366_7620641)
+2026-10-21 11:56:00,390 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Frosting & Decor
+2026-10-21 11:56:00,910 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=16b8d90a-cd14-11f1-896b-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:00,910 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Extracts & Spices (cat_id=976759_976780_9959366_5020530)
+2026-10-21 11:56:00,910 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Extracts & Spices
+2026-10-21 11:56:01,504 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=170d91f0-cd14-11f1-a98d-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:01,504 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Marshmallows (cat_id=976759_976780_9959366_2851313)
+2026-10-21 11:56:01,504 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Marshmallows
+2026-10-21 11:56:02,024 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=17626499-cd14-11f1-a83b-701859223808\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:02,024 [INFO] walmart_scraper.main: Scraping subcategory: Baking - Top Baking Brands  (cat_id=976759_976780_4879413)
+2026-10-21 11:56:02,024 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking - Top Baking Brands 
+2026-10-21 11:56:02,657 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=17b708e2-cd14-11f1-955a-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:02,657 [INFO] walmart_scraper.main: Scraping subcategory: Alcohol - Beer (cat_id=5110387)
+2026-10-21 11:56:02,657 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Alcohol - Beer
+2026-10-21 11:56:03,192 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=18142f6d-cd14-11f1-84aa-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:03,192 [INFO] walmart_scraper.main: Scraping subcategory: Alcohol - Wine (cat_id=8604954)
+2026-10-21 11:56:03,193 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Alcohol - Wine
+2026-10-21 11:56:03,904 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=187a3855-cd14-11f1-a198-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:03,904 [INFO] walmart_scraper.main: Scraping subcategory: Alcohol - Spirits (cat_id=8439204)
+2026-10-21 11:56:03,904 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Alcohol - Spirits
+2026-10-21 11:56:04,478 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=18d0e0bc-cd14-11f1-920a-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:04,478 [INFO] walmart_scraper.main: Scraping subcategory: Alcohol - Hard Seltzers & Cocktails (cat_id=8982253)
+2026-10-21 11:56:04,478 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Alcohol - Hard Seltzers & Cocktails
+2026-10-21 11:56:05,076 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=192fb36d-cd14-11f1-bdaf-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:05,076 [INFO] walmart_scraper.main: Scraping subcategory: Alcohol - Cocktail Mixers (cat_id=976759_976782_5533811)
+2026-10-21 11:56:05,076 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Alcohol - Cocktail Mixers
+2026-10-21 11:56:05,681 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=198ac521-cd14-11f1-bfe2-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:05,682 [INFO] walmart_scraper.main: Scraping subcategory: Alcohol - Non Alcoholic Drinks (cat_id=4158159)
+2026-10-21 11:56:05,682 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Alcohol - Non Alcoholic Drinks
+2026-10-21 11:56:06,296 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=19e62279-cd14-11f1-972c-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:06,296 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Ship to home coffee (cat_id=976759_1086446_6683788)
+2026-10-21 11:56:06,296 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Ship to home coffee
+2026-10-21 11:56:06,845 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1a3d8e3d-cd14-11f1-943a-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:06,845 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - K-Cups & Coffee Pods  (cat_id=976759_1086446_1229653)
+2026-10-21 11:56:06,845 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - K-Cups & Coffee Pods 
+2026-10-21 11:56:07,942 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1ae2366b-cd14-11f1-9eb6-9295020f6a35\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:07,942 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Ground Coffee  (cat_id=976759_1086446_2174088)
+2026-10-21 11:56:07,942 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Ground Coffee 
+2026-10-21 11:56:08,563 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1b38cc34-cd14-11f1-9f43-9295020f6a35\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:08,563 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Whole Bean Coffee (cat_id=976759_1086446_1229652)
+2026-10-21 11:56:08,563 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Whole Bean Coffee
+2026-10-21 11:56:09,129 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1b96aae7-cd14-11f1-bc9e-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:09,129 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Instant Coffee (cat_id=976759_1086446_1229650)
+2026-10-21 11:56:09,129 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Instant Coffee
+2026-10-21 11:56:09,727 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1bf3172a-cd14-11f1-b36c-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:09,728 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Bottled Coffe (cat_id=976759_1086446_1229654)
+2026-10-21 11:56:09,728 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Bottled Coffe
+2026-10-21 11:56:10,242 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1c47b0cc-cd14-11f1-b6e9-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:10,242 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Cold Brew Coffee (cat_id=976759_1086446_1229654_6840303)
+2026-10-21 11:56:10,242 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Cold Brew Coffee
+2026-10-21 11:56:10,839 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1c9d839d-cd14-11f1-9f80-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:10,840 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Espresso Pods (cat_id=976759_1086446_7775574)
+2026-10-21 11:56:10,840 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Espresso Pods
+2026-10-21 11:56:11,449 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1cfa0886-cd14-11f1-90d6-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:11,450 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Great Value Coffee (cat_id=976759_1086446_4168978_8616008)
+2026-10-21 11:56:11,450 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Great Value Coffee
+2026-10-21 11:56:12,055 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1d56cdfe-cd14-11f1-94c0-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:12,055 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Coffee Creamers (cat_id=976759_9176907_9550303_5834717)
+2026-10-21 11:56:12,055 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Coffee Creamers
+2026-10-21 11:56:12,598 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1dad49f7-cd14-11f1-84be-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:12,598 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Flavored Syrups (cat_id=976759_1086446_9241711_7299288)
+2026-10-21 11:56:12,598 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Flavored Syrups
+2026-10-21 11:56:13,198 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1e04411b-cd14-11f1-9190-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:13,198 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Coffee Makers (cat_id=4044_90548_90546_1115306_5438660)
+2026-10-21 11:56:13,198 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Coffee Makers
+2026-10-21 11:56:14,252 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1ea4b2f0-cd14-11f1-97ee-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:14,252 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Espresso Machines (cat_id=4044_90548_90546_1115306_7534756)
+2026-10-21 11:56:14,252 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Espresso Machines
+2026-10-21 11:56:14,737 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1ef5e527-cd14-11f1-8e03-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:14,738 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Coffee Filters (cat_id=4044_623679_133020_1338742)
+2026-10-21 11:56:14,738 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Coffee Filters
+2026-10-21 11:56:15,342 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1f483aec-cd14-11f1-9158-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:15,342 [INFO] walmart_scraper.main: Scraping subcategory: Coffee - Coffee Mugs (cat_id=4044_623679_639999_3148543_9383607)
+2026-10-21 11:56:15,342 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Coffee - Coffee Mugs
+2026-10-21 11:56:15,967 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=1fa8ba0f-cd14-11f1-9fb4-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:15,967 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Bottled Tea (cat_id=976759_976782_1001320_3563364)
+2026-10-21 11:56:15,967 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Bottled Tea
+2026-10-21 11:56:16,586 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=200a9a1e-cd14-11f1-aaa1-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:16,586 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Tea Bags (cat_id=976759_976782_1001320_4408773)
+2026-10-21 11:56:16,586 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Tea Bags
+2026-10-21 11:56:17,768 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=20bcc4c1-cd14-11f1-a72a-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:17,768 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Sweet Tea  (cat_id=976759_976782_1001320_4878945)
+2026-10-21 11:56:17,768 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Sweet Tea 
+2026-10-21 11:56:18,409 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=211d845e-cd14-11f1-ac24-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:18,410 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Iced Tea & Mixes (cat_id=976759_976782_1001320_9427409)
+2026-10-21 11:56:18,410 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Iced Tea & Mixes
+2026-10-21 11:56:19,121 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=218e967a-cd14-11f1-b164-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:19,121 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Green Tea (cat_id=976759_976782_1001320_8039444)
+2026-10-21 11:56:19,121 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Green Tea
+2026-10-21 11:56:19,648 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=21e3a6df-cd14-11f1-a6cc-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:19,649 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Herbal Tea (cat_id=976759_976782_1001320_9515255)
+2026-10-21 11:56:19,649 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Herbal Tea
+2026-10-21 11:56:20,258 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=223f3ce7-cd14-11f1-b243-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:20,258 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Tea Lattes  (cat_id=976759_976782_1001320_8101659)
+2026-10-21 11:56:20,258 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Tea Lattes 
+2026-10-21 11:56:20,788 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2291aed9-cd14-11f1-b3fc-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:20,788 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Decaf Tea (cat_id=976759_976782_1001320_2256085)
+2026-10-21 11:56:20,788 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Decaf Tea
+2026-10-21 11:56:25,052 [INFO] walmart_scraper.main: Fetching page 2 for subcategory Tea - Decaf Tea
+2026-10-21 11:56:25,702 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2578267d-cd14-11f1-967b-e40cadc4b95f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:25,702 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Cold Brew Tea (cat_id=976759_976782_1001320_7032482)
+2026-10-21 11:56:25,702 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Cold Brew Tea
+2026-10-21 11:56:26,353 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=25de10ed-cd14-11f1-8a79-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:26,353 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Loose Leaf Tea (cat_id=976759_976782_1001320_5476285)
+2026-10-21 11:56:26,353 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Loose Leaf Tea
+2026-10-21 11:56:26,968 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2638e783-cd14-11f1-aeee-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:26,968 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Black Tea  (cat_id=976759_976782_1001320_8923543)
+2026-10-21 11:56:26,968 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Black Tea 
+2026-10-21 11:56:27,580 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2697cf23-cd14-11f1-b266-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:27,581 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Matcha Tea (cat_id=976759_976782_1001320_1848015)
+2026-10-21 11:56:27,581 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Matcha Tea
+2026-10-21 11:56:28,236 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=26fac493-cd14-11f1-9c36-e40cadc4b95f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:28,236 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Tea K-Cups (cat_id=976759_976782_1001320_4197195)
+2026-10-21 11:56:28,236 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Tea K-Cups
+2026-10-21 11:56:28,864 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=27582371-cd14-11f1-9231-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:28,864 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Boba Tea (cat_id=976759_976782_1001320_7607417)
+2026-10-21 11:56:28,864 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Boba Tea
+2026-10-21 11:56:29,479 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=27b99b1e-cd14-11f1-83fa-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:29,479 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Kombucha (cat_id=976759_976782_1001320_8393771)
+2026-10-21 11:56:29,479 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Kombucha
+2026-10-21 11:56:30,054 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2815cdee-cd14-11f1-a8a5-dec10eff15b3\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:30,054 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Digestion Tea (cat_id=976759_976782_1001320_4758114)
+2026-10-21 11:56:30,055 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Digestion Tea
+2026-10-21 11:56:30,592 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=28697ce4-cd14-11f1-ae8e-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:30,592 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Immunity Tea (cat_id=976759_976782_1001320_8178988)
+2026-10-21 11:56:30,592 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Immunity Tea
+2026-10-21 11:56:31,222 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=28c8beb8-cd14-11f1-b164-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:31,222 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Energy Tea (cat_id=976759_976782_1001320_2037217)
+2026-10-21 11:56:31,222 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Energy Tea
+2026-10-21 11:56:31,798 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=291f9183-cd14-11f1-b4a4-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:31,798 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Detox Tea (cat_id=976759_976782_1001320_5984522)
+2026-10-21 11:56:31,798 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Detox Tea
+2026-10-21 11:56:32,364 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=296c99f2-cd14-11f1-9aae-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:32,364 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Relaxation (cat_id=976759_976782_1001320_6042884)
+2026-10-21 11:56:32,364 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Relaxation
+2026-10-21 11:56:32,976 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=29ce67bc-cd14-11f1-ac87-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:32,977 [INFO] walmart_scraper.main: Scraping subcategory: Tea - Great Value Tea (cat_id=976759_976782_1001320_7703154)
+2026-10-21 11:56:32,977 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Tea - Great Value Tea
+2026-10-21 11:56:33,516 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2a25666b-cd14-11f1-806d-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:33,517 [INFO] walmart_scraper.main: Scraping subcategory: EBT/SNAP eligible - Learn more about EBT/SNAP (cat_id=1465096)
+2026-10-21 11:56:33,517 [INFO] walmart_scraper.main: Fetching page 1 for subcategory EBT/SNAP eligible - Learn more about EBT/SNAP
+2026-10-21 11:56:34,106 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2a7b0f9b-cd14-11f1-b5be-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:34,107 [INFO] walmart_scraper.main: Scraping subcategory: Exclusively online - Multipack Snacks (cat_id=9175273)
+2026-10-21 11:56:34,107 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Exclusively online - Multipack Snacks
+2026-10-21 11:56:34,691 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2ad65d82-cd14-11f1-af44-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:34,691 [INFO] walmart_scraper.main: Scraping subcategory: Exclusively online - Bulk candy (cat_id=9143353)
+2026-10-21 11:56:34,691 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Exclusively online - Bulk candy
+2026-10-21 11:56:35,355 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2b35ada7-cd14-11f1-bce8-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:35,355 [INFO] walmart_scraper.main: Scraping subcategory: Exclusively online - Multipack Beverages (cat_id=8167813)
+2026-10-21 11:56:35,355 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Exclusively online - Multipack Beverages
+2026-10-21 11:56:35,891 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2b8fe399-cd14-11f1-a749-fe8c96513182\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:35,891 [INFO] walmart_scraper.main: Scraping subcategory: Exclusively online - International food (cat_id=7404240)
+2026-10-21 11:56:35,891 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Exclusively online - International food
+2026-10-21 11:56:36,549 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2bee9833-cd14-11f1-980c-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:36,550 [INFO] walmart_scraper.main: Scraping subcategory: Exclusively online - Meat & Seafood marketplace (cat_id=2907173)
+2026-10-21 11:56:36,550 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Exclusively online - Meat & Seafood marketplace
+2026-10-21 11:56:37,120 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2c4aa6e4-cd14-11f1-9382-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:37,120 [INFO] walmart_scraper.main: Scraping subcategory: Grab n Go - Candy (cat_id=976759_3701649_9074834)
+2026-10-21 11:56:37,120 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Grab n Go - Candy
+2026-10-21 11:56:37,819 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2ca7a40c-cd14-11f1-83dc-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:37,820 [INFO] walmart_scraper.main: Scraping subcategory: Grab n Go - Snacks (cat_id=976759_3701649_1372025)
+2026-10-21 11:56:37,820 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Grab n Go - Snacks
+2026-10-21 11:56:38,406 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2d078440-cd14-11f1-aefa-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:38,408 [INFO] walmart_scraper.main: Scraping subcategory: Grab n Go - Salad bowl (cat_id=976759_976793_9538337_6180034)
+2026-10-21 11:56:38,409 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Grab n Go - Salad bowl
+2026-10-21 11:56:38,924 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2d61892a-cd14-11f1-a1b3-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:38,924 [INFO] walmart_scraper.main: Scraping subcategory: Grab n Go - Sandwiches & wraps (cat_id=976759_976789_2985474_3723804)
+2026-10-21 11:56:38,925 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Grab n Go - Sandwiches & wraps
+2026-10-21 11:56:39,461 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2daaa7ff-cd14-11f1-bc3f-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:39,461 [INFO] walmart_scraper.main: Scraping subcategory: Grab n Go - Single-serve desserts (cat_id=976759_976779_9997386_3148961)
+2026-10-21 11:56:39,461 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Grab n Go - Single-serve desserts
+2026-10-21 11:56:40,176 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2e1842d2-cd14-11f1-9c2d-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:40,177 [INFO] walmart_scraper.main: Scraping subcategory: Grab n Go - Beverages (cat_id=976759_3701649_2386763)
+2026-10-21 11:56:40,177 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Grab n Go - Beverages
+2026-10-21 11:56:40,907 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2e8ebd02-cd14-11f1-b128-dec10eff15b3\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:40,907 [INFO] walmart_scraper.main: Scraping subcategory: Grab n Go - Batteries (cat_id=1115193_1076905)
+2026-10-21 11:56:40,907 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Grab n Go - Batteries
+2026-10-21 11:56:41,407 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2edbeb03-cd14-11f1-bbab-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:41,408 [INFO] walmart_scraper.main: Scraping subcategory: Grab n Go - Gift cards (cat_id=1094765_96894_8922996)
+2026-10-21 11:56:41,408 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Grab n Go - Gift cards
+2026-10-21 11:56:42,061 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2f342496-cd14-11f1-b104-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:42,061 [INFO] walmart_scraper.main: Scraping subcategory: As seen on TV - Home (cat_id=3734780_3513393_9328655)
+2026-10-21 11:56:42,061 [INFO] walmart_scraper.main: Fetching page 1 for subcategory As seen on TV - Home
+2026-10-21 11:56:42,702 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2f92b310-cd14-11f1-a577-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:42,703 [INFO] walmart_scraper.main: Scraping subcategory: As seen on TV - Electronics (cat_id=3734780_3513393_8787054)
+2026-10-21 11:56:42,703 [INFO] walmart_scraper.main: Fetching page 1 for subcategory As seen on TV - Electronics
+2026-10-21 11:56:43,312 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=2ff9147b-cd14-11f1-aa1f-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:43,312 [INFO] walmart_scraper.main: Scraping subcategory: As seen on TV - Toys (cat_id=3734780_3513393_4755115)
+2026-10-21 11:56:43,312 [INFO] walmart_scraper.main: Fetching page 1 for subcategory As seen on TV - Toys
+2026-10-21 11:56:43,882 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=304fd0f1-cd14-11f1-9b30-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:43,883 [INFO] walmart_scraper.main: Scraping subcategory: As seen on TV - Kitchen (cat_id=3734780_3513393_8186321)
+2026-10-21 11:56:43,883 [INFO] walmart_scraper.main: Fetching page 1 for subcategory As seen on TV - Kitchen
+2026-10-21 11:56:44,434 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=30a229d3-cd14-11f1-ba7b-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:44,434 [INFO] walmart_scraper.main: Scraping subcategory: As seen on TV - Health and beauty (cat_id=3734780_3513393_1946739)
+2026-10-21 11:56:44,434 [INFO] walmart_scraper.main: Fetching page 1 for subcategory As seen on TV - Health and beauty
+2026-10-21 11:56:45,257 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=31211755-cd14-11f1-8fdf-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:45,258 [INFO] walmart_scraper.main: Scraping subcategory: As seen on TV - Fitness and exercise (cat_id=3734780_3513393_1499386)
+2026-10-21 11:56:45,258 [INFO] walmart_scraper.main: Fetching page 1 for subcategory As seen on TV - Fitness and exercise
+2026-10-21 11:56:45,917 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3188fcba-cd14-11f1-8680-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:45,917 [INFO] walmart_scraper.main: Scraping subcategory: As seen on TV - Pets (cat_id=3734780_3513393_7761837)
+2026-10-21 11:56:45,917 [INFO] walmart_scraper.main: Fetching page 1 for subcategory As seen on TV - Pets
+2026-10-21 11:56:46,502 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=31deb997-cd14-11f1-99ae-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:46,502 [INFO] walmart_scraper.main: Scraping subcategory: As seen on TV - Tools (cat_id=3734780_3513393_6978096)
+2026-10-21 11:56:46,502 [INFO] walmart_scraper.main: Fetching page 1 for subcategory As seen on TV - Tools
+2026-10-21 11:56:47,092 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3237f846-cd14-11f1-8225-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:47,092 [INFO] walmart_scraper.main: Scraping subcategory: Pantry (cat_id=976794)
+2026-10-21 11:56:47,092 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pantry
+2026-10-21 11:56:47,695 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=329339e1-cd14-11f1-a2c2-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:47,695 [INFO] walmart_scraper.main: Scraping subcategory: Meat & seafood (cat_id=9569500)
+2026-10-21 11:56:47,695 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Meat & seafood
+2026-10-21 11:56:48,282 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=32eede81-cd14-11f1-9766-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:48,283 [INFO] walmart_scraper.main: Scraping subcategory: Frozen (cat_id=976791)
+2026-10-21 11:56:48,283 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Frozen
+2026-10-21 11:56:48,878 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=334953dd-cd14-11f1-940b-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:48,878 [INFO] walmart_scraper.main: Scraping subcategory: Produce (cat_id=976793)
+2026-10-21 11:56:48,878 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Produce
+2026-10-21 11:56:49,421 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=339ea5d9-cd14-11f1-8fe3-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:49,421 [INFO] walmart_scraper.main: Scraping subcategory: Snacks (cat_id=976787)
+2026-10-21 11:56:49,421 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Snacks
+2026-10-21 11:56:49,951 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=33f31a58-cd14-11f1-a37f-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:49,951 [INFO] walmart_scraper.main: Scraping subcategory: Beverages (cat_id=976782)
+2026-10-21 11:56:49,951 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beverages
+2026-10-21 11:56:50,856 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=34763385-cd14-11f1-a1ea-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:50,857 [INFO] walmart_scraper.main: Scraping subcategory: Deli (cat_id=976789)
+2026-10-21 11:56:50,857 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deli
+2026-10-21 11:56:51,437 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=34cdf354-cd14-11f1-a5f2-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:51,437 [INFO] walmart_scraper.main: Scraping subcategory: Breakfast (cat_id=976783)
+2026-10-21 11:56:51,438 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Breakfast
+2026-10-21 11:56:51,943 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=35231137-cd14-11f1-aa80-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:51,943 [INFO] walmart_scraper.main: Scraping subcategory: Dairy & eggs (cat_id=9176907)
+2026-10-21 11:56:51,943 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dairy & eggs
+2026-10-21 11:56:52,449 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=356f18ec-cd14-11f1-b7f4-dec10eff15b3\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:52,449 [INFO] walmart_scraper.main: Scraping subcategory: Bread & bakery (cat_id=976779)
+2026-10-21 11:56:52,449 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bread & bakery
+2026-10-21 11:56:53,008 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=35c2cf0f-cd14-11f1-b668-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:53,008 [INFO] walmart_scraper.main: Scraping subcategory: Candy (cat_id=1096070)
+2026-10-21 11:56:53,008 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Candy
+2026-10-21 11:56:53,625 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=361b4c00-cd14-11f1-9397-97256de99fa3\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:53,625 [INFO] walmart_scraper.main: Scraping subcategory: Baking (cat_id=976780)
+2026-10-21 11:56:53,625 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Baking
+2026-10-21 11:56:54,203 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3673c207-cd14-11f1-bd60-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:54,203 [INFO] walmart_scraper.main: Scraping subcategory: Alcohol (cat_id=2975985)
+2026-10-21 11:56:54,203 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Alcohol
+2026-10-21 11:56:54,789 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=36ccf0d3-cd14-11f1-80dc-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:54,789 [INFO] walmart_scraper.main: Scraping subcategory: bettergoods (cat_id=8911633)
+2026-10-21 11:56:54,789 [INFO] walmart_scraper.main: Fetching page 1 for subcategory bettergoods
+2026-10-21 11:56:55,334 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3727d5d7-cd14-11f1-bb40-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:55,334 [INFO] walmart_scraper.main: Scraping subcategory: Marketside (cat_id=8382924)
+2026-10-21 11:56:55,335 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Marketside
+2026-10-21 11:56:55,917 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3779639b-cd14-11f1-be5f-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:55,917 [INFO] walmart_scraper.main: Scraping subcategory: Great Value (cat_id=976759_7128585_9834661)
+2026-10-21 11:56:55,917 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Great Value
+2026-10-21 11:56:56,551 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=37d3cf88-cd14-11f1-9fd0-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:56,551 [INFO] walmart_scraper.main: Scraping subcategory: Freshness Guaranteed (cat_id=976759_7128585_7269273)
+2026-10-21 11:56:56,551 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Freshness Guaranteed
+2026-10-21 11:56:57,071 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3831c4f9-cd14-11f1-8587-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:57,071 [INFO] walmart_scraper.main: Scraping subcategory: Prima Della (cat_id=976759_7128585_4364629)
+2026-10-21 11:56:57,072 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Prima Della
+2026-10-21 11:56:57,630 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=387dbade-cd14-11f1-9630-97256de99fa3\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:57,632 [INFO] walmart_scraper.main: Processing category: Household Essentials (https://www.walmart.com/cp/household-essentials/1115193?povid=GlobalNav_rWeb_HouseholdEssentials_AllPaperCleaning)
+2026-10-21 11:56:58,439 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/household-essentials/1115193?povid=GlobalNav_rWeb_HouseholdEssentials_AllPaperCleaning
+2026-10-21 11:56:58,439 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Household Essentials at https://www.walmart.com/cp/household-essentials/1115193?povid=GlobalNav_rWeb_HouseholdEssentials_AllPaperCleaning
+2026-10-21 11:56:58,439 [INFO] walmart_scraper.main: Scraping subcategory: Household Essentials (cat_id=1115193)
+2026-10-21 11:56:58,439 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Household Essentials
+2026-10-21 11:56:59,073 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=395a2e47-cd14-11f1-bc51-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:56:59,074 [INFO] walmart_scraper.main: Processing category: Personal Care (https://www.walmart.com/cp/personal-care/1005862?povid=GlobalNav_rWeb_PersonalCare_3.19)
+2026-10-21 11:56:59,849 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/personal-care/1005862?povid=GlobalNav_rWeb_PersonalCare_3.19
+2026-10-21 11:56:59,849 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Personal Care at https://www.walmart.com/cp/personal-care/1005862?povid=GlobalNav_rWeb_PersonalCare_3.19
+2026-10-21 11:56:59,849 [INFO] walmart_scraper.main: Scraping subcategory: Personal Care (cat_id=1005862)
+2026-10-21 11:56:59,849 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Personal Care
+2026-10-21 11:57:00,470 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3a30d039-cd14-11f1-aa9b-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:00,472 [INFO] walmart_scraper.main: Processing category: Beauty (https://www.walmart.com/cp/beauty/1085666?povid=GlobalNav_rWeb_Beauty_Beauty_ShopAll_051123)
+2026-10-21 11:57:01,220 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/beauty/1085666?povid=GlobalNav_rWeb_Beauty_Beauty_ShopAll_051123
+2026-10-21 11:57:01,220 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Beauty at https://www.walmart.com/cp/beauty/1085666?povid=GlobalNav_rWeb_Beauty_Beauty_ShopAll_051123
+2026-10-21 11:57:01,221 [INFO] walmart_scraper.main: Scraping subcategory: Beauty (cat_id=1085666)
+2026-10-21 11:57:01,221 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Beauty
+2026-10-21 11:57:01,885 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3b02a36f-cd14-11f1-8977-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:01,886 [INFO] walmart_scraper.main: Processing category: Diapering (https://www.walmart.com/browse/diapering/5427_486190?povid=GlobalNav_mWeb_BabyKids_diaperswipes)
+2026-10-21 11:57:02,525 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/browse/diapering/5427_486190?povid=GlobalNav_mWeb_BabyKids_diaperswipes
+2026-10-21 11:57:02,525 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Diapering at https://www.walmart.com/browse/diapering/5427_486190?povid=GlobalNav_mWeb_BabyKids_diaperswipes
+2026-10-21 11:57:02,525 [INFO] walmart_scraper.main: Scraping subcategory: Diapering (cat_id=5427_486190)
+2026-10-21 11:57:02,525 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Diapering
+2026-10-21 11:57:03,019 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3bbd7452-cd14-11f1-b2b4-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:03,020 [INFO] walmart_scraper.main: Processing category: Feeding (https://www.walmart.com/cp/feeding/133283?povid=GlobalNav_mWeb_BabyKids_babyformula_babyfood)
+2026-10-21 11:57:03,793 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/feeding/133283?povid=GlobalNav_mWeb_BabyKids_babyformula_babyfood
+2026-10-21 11:57:03,794 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Feeding at https://www.walmart.com/cp/feeding/133283?povid=GlobalNav_mWeb_BabyKids_babyformula_babyfood
+2026-10-21 11:57:03,795 [INFO] walmart_scraper.main: Scraping subcategory: Feeding (cat_id=133283)
+2026-10-21 11:57:03,795 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Feeding
+2026-10-21 11:57:04,444 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3c91a725-cd14-11f1-90c6-2a3211a229de\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:04,445 [INFO] walmart_scraper.main: Processing category: Health & Wellness (https://www.walmart.com/cp/health/976760)
+2026-10-21 11:57:05,116 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/health/976760
+2026-10-21 11:57:05,116 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Health & Wellness at https://www.walmart.com/cp/health/976760
+2026-10-21 11:57:05,116 [INFO] walmart_scraper.main: Scraping subcategory: Health & Wellness (cat_id=976760)
+2026-10-21 11:57:05,116 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Health & Wellness
+2026-10-21 11:57:05,706 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3d50657b-cd14-11f1-ae15-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:05,706 [INFO] walmart_scraper.main: Processing category: Pets (https://www.walmart.com/cp/pets/5440?povid=GlobalNav_rWeb_Pets_PetSupplies_AllPetSupplies)
+2026-10-21 11:57:06,376 [INFO] walmart_scraper.navigator: Discovered 88 subcategories for Pets
+2026-10-21 11:57:06,378 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Shop all (cat_id=202072)
+2026-10-21 11:57:06,378 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Shop all
+2026-10-21 11:57:06,976 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3e157868-cd14-11f1-9206-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:06,977 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dry dog food (cat_id=5440_202072_6432755_1636265)
+2026-10-21 11:57:06,977 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dry dog food
+2026-10-21 11:57:07,586 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3e70229f-cd14-11f1-bbde-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:07,586 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Wet dog food (cat_id=5440_202072_6432755_1429994)
+2026-10-21 11:57:07,586 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Wet dog food
+2026-10-21 11:57:08,148 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3ec54a24-cd14-11f1-a622-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:08,148 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Fresh dog food (cat_id=5440_202072_6432755_7510960)
+2026-10-21 11:57:08,148 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Fresh dog food
+2026-10-21 11:57:09,138 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3f5eefab-cd14-11f1-b07b-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:09,138 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog treats (cat_id=5440_202072_6432755_8052432_202087)
+2026-10-21 11:57:09,138 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog treats
+2026-10-21 11:57:09,795 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=3fbc8137-cd14-11f1-8793-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:09,795 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Pet Tech (cat_id=5440_3984363_6379223)
+2026-10-21 11:57:09,796 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Pet Tech
+2026-10-21 11:57:10,405 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=401cab8a-cd14-11f1-93bf-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:10,405 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog crates (cat_id=5440_202072_2202003)
+2026-10-21 11:57:10,406 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog crates
+2026-10-21 11:57:11,110 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=408f31a3-cd14-11f1-b7f1-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:11,111 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog toys (cat_id=5440_202072_2243339)
+2026-10-21 11:57:11,111 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog toys
+2026-10-21 11:57:11,718 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=40e619fb-cd14-11f1-b558-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:11,718 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog beds (cat_id=5440_202072_7135140)
+2026-10-21 11:57:11,719 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog beds
+2026-10-21 11:57:12,323 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4141ad01-cd14-11f1-9ff8-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:12,323 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog collars, leashes, & harnesses (cat_id=5440_202072_2450672)
+2026-10-21 11:57:12,323 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog collars, leashes, & harnesses
+2026-10-21 11:57:12,931 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=41a474fa-cd14-11f1-929e-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:12,931 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog clothes & costumes (cat_id=5440_202072_4039016)
+2026-10-21 11:57:12,931 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog clothes & costumes
+2026-10-21 11:57:13,426 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=41f094b6-cd14-11f1-946b-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:13,426 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog flea & tick (cat_id=5440_202072_1245962)
+2026-10-21 11:57:13,427 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog flea & tick
+2026-10-21 11:57:14,018 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4245b39f-cd14-11f1-8196-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:14,018 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog potty training (cat_id=5440_202072_1416135)
+2026-10-21 11:57:14,018 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog potty training
+2026-10-21 11:57:14,519 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=42984f59-cd14-11f1-b4d7-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:14,519 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog grooming (cat_id=5440_202072_1980811)
+2026-10-21 11:57:14,519 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog grooming
+2026-10-21 11:57:15,135 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=42ef6d73-cd14-11f1-b12c-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:15,135 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Dog Bowls & Accessories (cat_id=5440_202072_6366224_202080)
+2026-10-21 11:57:15,136 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Dog Bowls & Accessories
+2026-10-21 11:57:15,766 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=434f5055-cd14-11f1-9b16-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:15,766 [INFO] walmart_scraper.main: Scraping subcategory: Dog - Pet furniture covers (cat_id=4044_133012_1372968_5412275)
+2026-10-21 11:57:15,766 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Dog - Pet furniture covers
+2026-10-21 11:57:16,337 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=43ad5ecc-cd14-11f1-9488-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:16,337 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Shop all (cat_id=202073)
+2026-10-21 11:57:16,337 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Shop all
+2026-10-21 11:57:16,946 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=44027bbb-cd14-11f1-9f11-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:16,946 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Dry cat food (cat_id=5440_202073_1749780_3053202)
+2026-10-21 11:57:16,946 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Dry cat food
+2026-10-21 11:57:17,453 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=44580483-cd14-11f1-8875-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:17,454 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Wet cat food (cat_id=5440_202073_1749780_5753663)
+2026-10-21 11:57:17,454 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Wet cat food
+2026-10-21 11:57:18,093 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=44b0a5c4-cd14-11f1-9c4e-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:18,094 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat treats (cat_id=5440_202073_6005312)
+2026-10-21 11:57:18,094 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat treats
+2026-10-21 11:57:18,697 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4506435d-cd14-11f1-a213-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:18,698 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat litter & accessories (cat_id=5440_202073_202098)
+2026-10-21 11:57:18,698 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat litter & accessories
+2026-10-21 11:57:19,286 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=456db373-cd14-11f1-95a0-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:19,286 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat toys (cat_id=5440_202073_2584809)
+2026-10-21 11:57:19,286 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat toys
+2026-10-21 11:57:19,905 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=45c69e15-cd14-11f1-a34f-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:19,905 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat trees (cat_id=5440_202073_7793759)
+2026-10-21 11:57:19,905 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat trees
+2026-10-21 11:57:20,430 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=461ca805-cd14-11f1-ad44-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:20,430 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat scratchers (cat_id=5440_202073_1522230)
+2026-10-21 11:57:20,430 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat scratchers
+2026-10-21 11:57:21,549 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=46c86941-cd14-11f1-b142-7a8821742eb1\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:21,549 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat beds (cat_id=5440_202073_1648217)
+2026-10-21 11:57:21,549 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat beds
+2026-10-21 11:57:22,133 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4718cfb7-cd14-11f1-a5e3-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:22,133 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat carriers (cat_id=5440_202073_7788817)
+2026-10-21 11:57:22,133 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat carriers
+2026-10-21 11:57:22,754 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4779dbb6-cd14-11f1-9f2a-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:22,754 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat flea & tick (cat_id=5440_202073_3304805)
+2026-10-21 11:57:22,754 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat flea & tick
+2026-10-21 11:57:23,269 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=47cf50a0-cd14-11f1-9b4e-701859223808\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:23,269 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat grooming (cat_id=5440_202073_9900738)
+2026-10-21 11:57:23,269 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat grooming
+2026-10-21 11:57:23,750 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=48182a60-cd14-11f1-b156-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:23,750 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat collars, leashes, & harnesses (cat_id=5440_202073_1014984)
+2026-10-21 11:57:23,750 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat collars, leashes, & harnesses
+2026-10-21 11:57:24,220 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=485fe8bd-cd14-11f1-b36e-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:24,220 [INFO] walmart_scraper.main: Scraping subcategory: Cat - Cat water fountains (cat_id=5440_202073_2600039_7313655)
+2026-10-21 11:57:24,220 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Cat - Cat water fountains
+2026-10-21 11:57:24,839 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=48b844c2-cd14-11f1-bf0b-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:24,839 [INFO] walmart_scraper.main: Scraping subcategory: Fish - Shop all (cat_id=202074)
+2026-10-21 11:57:24,839 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fish - Shop all
+2026-10-21 11:57:25,467 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=491748ef-cd14-11f1-b445-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:25,467 [INFO] walmart_scraper.main: Scraping subcategory: Fish - Fish food (cat_id=5440_202074_7671057)
+2026-10-21 11:57:25,467 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fish - Fish food
+2026-10-21 11:57:26,068 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=49735fa1-cd14-11f1-9713-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:26,069 [INFO] walmart_scraper.main: Scraping subcategory: Fish - Fish tanks (cat_id=5440_202074_7712328)
+2026-10-21 11:57:26,069 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fish - Fish tanks
+2026-10-21 11:57:26,631 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=49ceb9a5-cd14-11f1-841e-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:26,631 [INFO] walmart_scraper.main: Scraping subcategory: Fish - Fish tank cleaners (cat_id=5440_202074_2552250)
+2026-10-21 11:57:26,631 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fish - Fish tank cleaners
+2026-10-21 11:57:27,247 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4a277b60-cd14-11f1-ba5f-1e1d1084aefa\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:27,247 [INFO] walmart_scraper.main: Scraping subcategory: Fish - Fish tank decoration (cat_id=5440_202074_6424926)
+2026-10-21 11:57:27,247 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fish - Fish tank decoration
+2026-10-21 11:57:27,834 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4a81e2b7-cd14-11f1-a376-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:27,834 [INFO] walmart_scraper.main: Scraping subcategory: Fish - Fish tank filters & pumps (cat_id=5440_202074_2825584)
+2026-10-21 11:57:27,834 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fish - Fish tank filters & pumps
+2026-10-21 11:57:28,497 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4ae310df-cd14-11f1-9b80-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:28,497 [INFO] walmart_scraper.main: Scraping subcategory: Fish - Fish tank lighting & heating (cat_id=5440_202074_2165768)
+2026-10-21 11:57:28,497 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fish - Fish tank lighting & heating
+2026-10-21 11:57:29,109 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4b425bf0-cd14-11f1-ac0e-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:29,109 [INFO] walmart_scraper.main: Scraping subcategory: Fish - Live fish (cat_id=5440_202074_3763320)
+2026-10-21 11:57:29,109 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Fish - Live fish
+2026-10-21 11:57:29,643 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4b9b239f-cd14-11f1-9791-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:29,643 [INFO] walmart_scraper.main: Scraping subcategory: Small animal - Shop all (cat_id=1001299)
+2026-10-21 11:57:29,643 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Small animal - Shop all
+2026-10-21 11:57:30,278 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4bf240b8-cd14-11f1-a20e-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:30,279 [INFO] walmart_scraper.main: Scraping subcategory: Small animal - Rabbit (cat_id=5440_5054880)
+2026-10-21 11:57:30,279 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Small animal - Rabbit
+2026-10-21 11:57:30,918 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4c5de533-cd14-11f1-a84d-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:30,919 [INFO] walmart_scraper.main: Scraping subcategory: Small animal - Guinea pig (cat_id=5440_2765646)
+2026-10-21 11:57:30,919 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Small animal - Guinea pig
+2026-10-21 11:57:31,532 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4cb7751f-cd14-11f1-9535-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:31,533 [INFO] walmart_scraper.main: Scraping subcategory: Small animal - Hamster (cat_id=5440_9808177)
+2026-10-21 11:57:31,533 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Small animal - Hamster
+2026-10-21 11:57:32,203 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4d0ab167-cd14-11f1-93b4-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:32,204 [INFO] walmart_scraper.main: Scraping subcategory: Small animal - Ferret (cat_id=5440_6716658)
+2026-10-21 11:57:32,204 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Small animal - Ferret
+2026-10-21 11:57:32,852 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4d7d55c7-cd14-11f1-9d8a-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:32,852 [INFO] walmart_scraper.main: Scraping subcategory: Small animal - Gerbil (cat_id=5440_3885453)
+2026-10-21 11:57:32,852 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Small animal - Gerbil
+2026-10-21 11:57:33,425 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4dd60ef6-cd14-11f1-aed3-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:33,426 [INFO] walmart_scraper.main: Scraping subcategory: Reptile - Shop all (cat_id=6833286)
+2026-10-21 11:57:33,426 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Reptile - Shop all
+2026-10-21 11:57:34,004 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4e30a9a5-cd14-11f1-97ab-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:34,004 [INFO] walmart_scraper.main: Scraping subcategory: Reptile - Food (cat_id=5440_6833286_7160666)
+2026-10-21 11:57:34,005 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Reptile - Food
+2026-10-21 11:57:34,639 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4e8dee3c-cd14-11f1-9c44-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:34,639 [INFO] walmart_scraper.main: Scraping subcategory: Reptile - Turtle (cat_id=5440_6833286_6561497)
+2026-10-21 11:57:34,640 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Reptile - Turtle
+2026-10-21 11:57:35,268 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4ef1eeb3-cd14-11f1-b672-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:35,269 [INFO] walmart_scraper.main: Scraping subcategory: Reptile - Hermit Crab (cat_id=5440_6833286_5246025)
+2026-10-21 11:57:35,269 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Reptile - Hermit Crab
+2026-10-21 11:57:35,874 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4f4d2d85-cd14-11f1-b03e-9295020f6a35\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:35,875 [INFO] walmart_scraper.main: Scraping subcategory: Reptile - Reptile supplies (cat_id=5440_6833286_2404348)
+2026-10-21 11:57:35,875 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Reptile - Reptile supplies
+2026-10-21 11:57:36,534 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=4fac22cf-cd14-11f1-b97a-1d1a14a4231f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:36,534 [INFO] walmart_scraper.main: Scraping subcategory: Reptile - Terrariums (cat_id=5440_6833286_7275196)
+2026-10-21 11:57:36,534 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Reptile - Terrariums
+2026-10-21 11:57:37,155 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=50100109-cd14-11f1-b289-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:37,155 [INFO] walmart_scraper.main: Scraping subcategory: Reptile - Terrarium moss (cat_id=5440_6833286_2404348_4496871)
+2026-10-21 11:57:37,155 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Reptile - Terrarium moss
+2026-10-21 11:57:37,754 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=506ba703-cd14-11f1-9a98-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:37,754 [INFO] walmart_scraper.main: Scraping subcategory: Reptile - Heating & lighting (cat_id=5440_6833286_5741462)
+2026-10-21 11:57:37,754 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Reptile - Heating & lighting
+2026-10-21 11:57:38,386 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=50d1cca3-cd14-11f1-a0ae-dec10eff15b3\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:38,387 [INFO] walmart_scraper.main: Scraping subcategory: Bird - Shop all (cat_id=228734)
+2026-10-21 11:57:38,387 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bird - Shop all
+2026-10-21 11:57:38,902 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=512086cc-cd14-11f1-936e-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:38,902 [INFO] walmart_scraper.main: Scraping subcategory: Bird - Bird food (cat_id=5440_228734_1225008)
+2026-10-21 11:57:38,902 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bird - Bird food
+2026-10-21 11:57:39,483 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=517463a6-cd14-11f1-854b-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:39,484 [INFO] walmart_scraper.main: Scraping subcategory: Bird - Bird treats (cat_id=5440_228734_9404822)
+2026-10-21 11:57:39,484 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bird - Bird treats
+2026-10-21 11:57:40,036 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=51c7a4a4-cd14-11f1-baab-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:40,037 [INFO] walmart_scraper.main: Scraping subcategory: Bird - Bird cages (cat_id=5440_228734_7047090)
+2026-10-21 11:57:40,037 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bird - Bird cages
+2026-10-21 11:57:40,604 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=521a0fb3-cd14-11f1-aeda-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:40,605 [INFO] walmart_scraper.main: Scraping subcategory: Bird - Bird toys (cat_id=5440_228734_4661638)
+2026-10-21 11:57:40,605 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bird - Bird toys
+2026-10-21 11:57:41,253 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5287464d-cd14-11f1-a1e3-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:41,254 [INFO] walmart_scraper.main: Scraping subcategory: Bird - Bird perches (cat_id=5440_228734_2266380)
+2026-10-21 11:57:41,254 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Bird - Bird perches
+2026-10-21 11:57:41,828 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=52d9dd44-cd14-11f1-92cf-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:41,828 [INFO] walmart_scraper.main: Scraping subcategory: Pet Health & Wellness - Pet Health & Wellness (cat_id=8455591)
+2026-10-21 11:57:41,828 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Pet Health & Wellness - Pet Health & Wellness
+2026-10-21 11:57:42,355 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=532ab2ce-cd14-11f1-8add-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:42,355 [INFO] walmart_scraper.main: Scraping subcategory: Deals - Under $5 (cat_id=5440)
+2026-10-21 11:57:42,355 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Deals - Under $5
+2026-10-21 11:57:42,825 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5376c9ff-cd14-11f1-86be-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:42,826 [INFO] walmart_scraper.main: Scraping subcategory: New arrivals - Dr. Pol (cat_id=5440_5285960_8172891)
+2026-10-21 11:57:42,826 [INFO] walmart_scraper.main: Fetching page 1 for subcategory New arrivals - Dr. Pol
+2026-10-21 11:57:43,746 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=53fdb781-cd14-11f1-9470-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:43,747 [INFO] walmart_scraper.main: Scraping subcategory: New arrivals - JINX (cat_id=5440_5285960_3977753)
+2026-10-21 11:57:43,747 [INFO] walmart_scraper.main: Fetching page 1 for subcategory New arrivals - JINX
+2026-10-21 11:57:44,331 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=545cb7bf-cd14-11f1-b5d8-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:44,331 [INFO] walmart_scraper.main: Scraping subcategory: New arrivals - Pretty Litter (cat_id=965673541)
+2026-10-21 11:57:44,332 [INFO] walmart_scraper.main: Fetching page 1 for subcategory New arrivals - Pretty Litter
+2026-10-21 11:57:44,939 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=54b2a444-cd14-11f1-b2cf-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:44,939 [INFO] walmart_scraper.main: Scraping subcategory: New arrivals - FurHaven (cat_id=5440_5285960_2289526)
+2026-10-21 11:57:44,939 [INFO] walmart_scraper.main: Fetching page 1 for subcategory New arrivals - FurHaven
+2026-10-21 11:57:45,507 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=550bd362-cd14-11f1-b4f7-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:45,507 [INFO] walmart_scraper.main: Scraping subcategory: Only at Walmart - Vibrant Life (cat_id=5440_3530725)
+2026-10-21 11:57:45,507 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Only at Walmart - Vibrant Life
+2026-10-21 11:57:46,217 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5576825b-cd14-11f1-aa80-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:46,218 [INFO] walmart_scraper.main: Scraping subcategory: Only at Walmart - Ol 'Roy (cat_id=3531011)
+2026-10-21 11:57:46,218 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Only at Walmart - Ol 'Roy
+2026-10-21 11:57:46,832 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=55d38ac8-cd14-11f1-b639-c8dd83d7b788\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:46,833 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Purina ONE (cat_id=5440_5285960_1376176)
+2026-10-21 11:57:46,833 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Purina ONE
+2026-10-21 11:57:48,109 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5695a3a0-cd14-11f1-8115-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:48,110 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Fancy Feast (cat_id=5440_5285960_2102165)
+2026-10-21 11:57:48,110 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Fancy Feast
+2026-10-21 11:57:48,684 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=56efb044-cd14-11f1-b3f5-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:48,685 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Pedigree (cat_id=5440_5285960_7520899)
+2026-10-21 11:57:48,685 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Pedigree
+2026-10-21 11:57:49,300 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=574e4586-cd14-11f1-bc8f-e40cadc4b95f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:49,301 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Friskies (cat_id=5440_5285960_6581090)
+2026-10-21 11:57:49,301 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Friskies
+2026-10-21 11:57:49,845 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=579f8c69-cd14-11f1-adc1-6c3e7df05e2c\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:49,845 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Beneful (cat_id=5440_5285960_6880247)
+2026-10-21 11:57:49,845 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Beneful
+2026-10-21 11:57:50,419 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=57f9dbb4-cd14-11f1-9eaa-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:50,419 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - IAMS (cat_id=5440_5285960_4936254)
+2026-10-21 11:57:50,419 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - IAMS
+2026-10-21 11:57:51,374 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=588b6482-cd14-11f1-bf6a-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:51,374 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Pure Balance (cat_id=5440_5285960_3177778)
+2026-10-21 11:57:51,374 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Pure Balance
+2026-10-21 11:57:51,907 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=58dcf335-cd14-11f1-90b8-9295020f6a35\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:51,907 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Temptations (cat_id=5440_5285960_5549847_8347597)
+2026-10-21 11:57:51,907 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Temptations
+2026-10-21 11:57:52,446 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=59329b10-cd14-11f1-88a8-fc482c174f02\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:52,446 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Blue Buffalo (cat_id=5440_5285960_1311249)
+2026-10-21 11:57:52,446 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Blue Buffalo
+2026-10-21 11:57:53,026 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=59819082-cd14-11f1-a1ac-4ee73b7e38b9\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:53,027 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Cesar (cat_id=5440_5285960_9110123)
+2026-10-21 11:57:53,027 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Cesar
+2026-10-21 11:57:53,636 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=59e0aaaa-cd14-11f1-a7f7-0aa68310ffe6\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:53,636 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Rachael Ray (cat_id=5440_5285960_5418428)
+2026-10-21 11:57:53,636 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Rachael Ray
+2026-10-21 11:57:54,182 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5a3541d1-cd14-11f1-83db-e40cadc4b95f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:54,182 [INFO] walmart_scraper.main: Scraping subcategory: Brands we love - Tidy Cats (cat_id=5440_5285960_9178309)
+2026-10-21 11:57:54,182 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Brands we love - Tidy Cats
+2026-10-21 11:57:54,851 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5a980353-cd14-11f1-a026-c8309a06b23f\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:54,852 [INFO] walmart_scraper.main: Scraping subcategory: Premium pet brands (cat_id=9351754)
+2026-10-21 11:57:54,852 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Premium pet brands
+2026-10-21 11:57:55,450 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5af2716c-cd14-11f1-bc37-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:55,450 [INFO] walmart_scraper.main: Scraping subcategory: Hill’s Science Diet (cat_id=5440_5285960_6111830)
+2026-10-21 11:57:55,450 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Hill’s Science Diet
+2026-10-21 11:57:56,002 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5b4bccfc-cd14-11f1-974f-9295020f6a35\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:56,002 [INFO] walmart_scraper.main: Scraping subcategory: Blue Buffalo (cat_id=5440_5285960_1311249_2404549)
+2026-10-21 11:57:56,002 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Blue Buffalo
+2026-10-21 11:57:56,623 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5ba7e086-cd14-11f1-99e2-51352d43b31e\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:56,623 [INFO] walmart_scraper.main: Scraping subcategory: Purina Pro Plan (cat_id=5440_5285960_8431721_2274293)
+2026-10-21 11:57:56,624 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Purina Pro Plan
+2026-10-21 11:57:57,156 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5c020850-cd14-11f1-81d0-be18402b4fbb\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:57,156 [INFO] walmart_scraper.main: Scraping subcategory: Milk-Bone (cat_id=5440_5285960_2775219)
+2026-10-21 11:57:57,156 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Milk-Bone
+2026-10-21 11:57:57,717 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5c578e83-cd14-11f1-8956-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:57,717 [INFO] walmart_scraper.main: Scraping subcategory: Oodles (cat_id=20032298)
+2026-10-21 11:57:57,717 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Oodles
+2026-10-21 11:57:58,357 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5cb82365-cd14-11f1-8c64-dcd4228e6e65\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:58,357 [INFO] walmart_scraper.main: Scraping subcategory: Benebone (cat_id=5440_5285960_1960902)
+2026-10-21 11:57:58,357 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Benebone
+2026-10-21 11:57:58,888 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5d097017-cd14-11f1-8e5e-9a217ca7b933\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:58,889 [INFO] walmart_scraper.main: Scraping subcategory: Stella & Chewy's (cat_id=5440_5285960_8071980)
+2026-10-21 11:57:58,889 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Stella & Chewy's
+2026-10-21 11:57:59,544 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5d6798ff-cd14-11f1-a4ba-65af97761cba\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:57:59,545 [INFO] walmart_scraper.main: Scraping subcategory: Zesty Paws (cat_id=5440_5285960_5644485)
+2026-10-21 11:57:59,545 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Zesty Paws
+2026-10-21 11:58:00,123 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5dc144ab-cd14-11f1-a02f-9295020f6a35\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:58:00,123 [INFO] walmart_scraper.main: Scraping subcategory: Litter-Robot (cat_id=5440_5285960_2375050_4675252)
+2026-10-21 11:58:00,123 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Litter-Robot
+2026-10-21 11:58:00,742 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5e1cc08e-cd14-11f1-8dd7-701859223808\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:58:00,743 [INFO] walmart_scraper.main: Processing category: Balloons (https://www.walmart.com/browse/party-occasions/balloons/2637_1042319_1212898_3956207?povid=GlobalNav_rWeb_ETS_partysupplies_balloons)
+2026-10-21 11:58:01,564 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/browse/party-occasions/balloons/2637_1042319_1212898_3956207?povid=GlobalNav_rWeb_ETS_partysupplies_balloons
+2026-10-21 11:58:01,565 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Balloons at https://www.walmart.com/browse/party-occasions/balloons/2637_1042319_1212898_3956207?povid=GlobalNav_rWeb_ETS_partysupplies_balloons
+2026-10-21 11:58:01,565 [INFO] walmart_scraper.main: Scraping subcategory: Balloons (cat_id=2637_1042319_1212898_3956207)
+2026-10-21 11:58:01,565 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Balloons
+2026-10-21 11:58:02,331 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5f0926ed-cd14-11f1-b535-f2b22038fa86\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:58:02,332 [INFO] walmart_scraper.main: Processing category: Art Supplies (https://www.walmart.com/cp/art-supplies/5899871?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_ArtSupplies)
+2026-10-21 11:58:03,023 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/art-supplies/5899871?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_ArtSupplies
+2026-10-21 11:58:03,024 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Art Supplies at https://www.walmart.com/cp/art-supplies/5899871?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_ArtsCraftsSewing_ArtSupplies
+2026-10-21 11:58:03,024 [INFO] walmart_scraper.main: Scraping subcategory: Art Supplies (cat_id=5899871)
+2026-10-21 11:58:03,024 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Art Supplies
+2026-10-21 11:58:03,663 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=5fdca74e-cd14-11f1-acb1-2a3211a229de\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:58:03,664 [INFO] walmart_scraper.main: Processing category: Office Supplies (https://www.walmart.com/cp/office-supplies/1229749?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllOfficeSupplies)
+2026-10-21 11:58:04,458 [WARNING] walmart_scraper.client: No __NEXT_DATA__ in response for https://www.walmart.com/cp/office-supplies/1229749?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllOfficeSupplies
+2026-10-21 11:58:04,458 [ERROR] walmart_scraper.navigator: Could not fetch landing page for category Office Supplies at https://www.walmart.com/cp/office-supplies/1229749?povid=GlobalNav_rWeb_SchoolOfficeArtSupplies_Department_ShopAllOfficeSupplies
+2026-10-21 11:58:04,458 [INFO] walmart_scraper.main: Scraping subcategory: Office Supplies (cat_id=1229749)
+2026-10-21 11:58:04,458 [INFO] walmart_scraper.main: Fetching page 1 for subcategory Office Supplies
+2026-10-21 11:58:05,126 [WARNING] walmart_scraper.client: Browse GraphQL status 412: {"redirectUrl":"/blocked?url=Lw==\u0026uuid=60ba8d3e-cd14-11f1-b933-8f7c927cda9b\u0026vid=\u0026g=b","appId":"PXu6b0qd2S","jsClientSrc":"/px/PXu6b0qd2S/init.js","firstPartyEnabled":true,"vid":"","uuid
+2026-10-21 11:58:05,132 [WARNING] walmart_scraper.pipeline: Run validation FAILED. Preserving existing latest_good output. Run archived at data\sacramento-3081_20261021_055805.json
+2026-10-21 11:58:05,132 [INFO] walmart_scraper.main: Completed run for sacramento-3081. Total records: 103. Valid: False
